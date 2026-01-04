@@ -1,2 +1,2 @@
 # english-finnish-flashcards
-english-finnish flashcards game
+english-finnish flashcards for learning finnish language
